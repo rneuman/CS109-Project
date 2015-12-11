@@ -7,3 +7,6 @@ https://docs.google.com/a/college.harvard.edu/document/d/1pTVRJEFywwsuHtl2RKHxA4
 
 Link to Project Website
 https://sites.google.com/a/college.harvard.edu/cs109demdebate/home
+
+Link to Screencast
+https://www.youtube.com/watch?v=wSkNL-GBqHM
